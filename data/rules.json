@@ -1,0 +1,79 @@
+{
+  "rule_variant": {
+    "classic": {
+      "rock": {
+        "beats": {
+          "scissors": {
+            "verb": "crushes"
+          }
+        }
+      },
+      "paper": {
+        "beats": {
+          "rock": {
+            "verb": "covers"
+          }
+        }
+      },
+      "scissors": {
+        "beats": {
+          "paper": {
+            "verb": "cuts"
+          }
+        }
+      }
+    },
+    "lizard_spock": {
+      "rock": {
+        "beats": {
+          "scissors": {
+            "verb": "crushes"
+          },
+          "lizard": {
+            "verb": "crushes"
+          }
+        }
+      },
+      "paper": {
+        "beats": {
+          "rock": {
+            "verb": "covers"
+          },
+          "spock": {
+            "verb": "disproves"
+          }
+        }
+      },
+      "scissors": {
+        "beats": {
+          "paper": {
+            "verb": "cuts"
+          },
+          "lizard": {
+            "verb": "decapitates"
+          }
+        }
+      },
+      "lizard": {
+        "beats": {
+          "paper": {
+            "verb": "eats"
+          },
+          "spock": {
+            "verb": "poisons"
+          }
+        }
+      },
+      "spock": {
+        "beats": {
+          "rock": {
+            "verb": "vaporizes"
+          },
+          "scissors": {
+            "verb": "smashes"
+          }
+        }
+      }
+    }
+  }
+}

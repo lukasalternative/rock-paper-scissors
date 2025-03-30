@@ -1,0 +1,42 @@
+{
+  "moves": [
+    {
+      "name": "rock",
+      "display_name": "Rock",
+      "variants": [
+        "classic",
+        "lizard_spock"
+      ]
+    },
+    {
+      "name": "paper",
+      "display_name": "Paper",
+      "variants": [
+        "classic",
+        "lizard_spock"
+      ]
+    },
+    {
+      "name": "scissors",
+      "display_name": "Scissors",
+      "variants": [
+        "classic",
+        "lizard_spock"
+      ]
+    },
+    {
+      "name": "lizard",
+      "display_name": "Lizard",
+      "variants": [
+        "lizard_spock"
+      ]
+    },
+    {
+      "name": "spock",
+      "display_name": "Spock",
+      "variants": [
+        "lizard_spock"
+      ]
+    }
+  ]
+}

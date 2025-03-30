@@ -1,0 +1,13 @@
+{
+  "variants": [
+    {
+      "name": "classic",
+      "display_name": "Classic"
+    },
+    {
+      "name": "lizard_spock",
+      "display_name": "Lizard, Spock"
+    }
+  ],
+  "ai_strategy": "random"
+}

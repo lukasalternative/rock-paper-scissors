@@ -10,7 +10,8 @@ Python implementation of Rock, Paper, Scissors.
 ## Requirements and Setup
 
 - Python 3.10+
-- The only third-party dependency is pydantic. Install in you environment using `pip install pydantic`
+- Recommended: Create new virtual environment
+- The only third-party dependency is pydantic. Install in your environment with  `pip install pydantic` or using `pip install -r requirements.txt`
 
 Code was tested under Linux and Windows, but should also support MacOS
 
